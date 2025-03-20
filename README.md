@@ -1,9 +1,12 @@
 # My Topic Google Doodle
 
-50+ words about your Google Doodle.
-
+I made an outer space Google Doodle because I’ve always liked the space aesthetic. There’s just something about stars, planets, and the whole vibe of space that looks cool. I also really like the color purple, so it just made sense to mix the two. It was a fun way to mess around with design while making something that fits my style.
 ## Collage
 
-[Sample to Figma Collage](https://www.figma.com/file/KIEiC0Tgx5IF1BhpTLZhn0/Google-Doodle?node-id=0%3A1)
+[Figma Collage]https://www.figma.com/design/kk3uE6gXPaqZKO0eYoUiQ1/Style-Tile-for-Google-Doodle-Logan?node-id=0-1&p=f&t=aIRfrFSm5VxEzDbN-0
 
 ## Resources
+* co-pilot 
+* chat gpt 
+* Gsap
+* Figma 
